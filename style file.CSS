@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+header {
+    text-align: center;
+    padding: 22px;
+    border: 22px solid brown;
+    background-color: rgb(84, 46, 46);
+}
