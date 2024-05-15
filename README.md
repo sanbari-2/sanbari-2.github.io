@@ -12,6 +12,8 @@
     <header>
        G-store
     </header>
+  <a href="maine page.html">click</a>
+  
  </body>
 
 </html>
